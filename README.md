@@ -27,7 +27,7 @@
   <a href="mailto:czmaeli663@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ElisamaDiasCoelho" target="_blank">
+  <a href="https://www.linkedin.com/in/elisama-coelho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </section>
