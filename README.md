@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="160" src="https://media1.tenor.com/m/W1Q_7gP-osoAAAAd/scooby-doo-cute-d.gif" />
 </div>
 
