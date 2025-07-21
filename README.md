@@ -39,7 +39,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 6px;">
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=zama-dc&show_icons=true&count_private=true&theme=vue-dark" 
+    src="https://github-readme-stats.vercel.app/api?username=zama-dc&show_icons=true&count_private=true&theme=vue-dark&cache_seconds=60" 
     alt="GitHub Stats"
   />
   <img 
