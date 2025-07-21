@@ -44,7 +44,7 @@
   />
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zama-dc&layout=compact&theme=vue-dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zama-dc&layout=compact&theme=vue-dark&cache_seconds=60" 
     alt="Most Used Languages"
   />
 </div>
