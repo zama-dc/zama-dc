@@ -67,5 +67,5 @@
 
 
 
-[![Spotify](https://novatorem-lp214r7rs-elisama-dias-coelhos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zama)
+[![Spotify](https://novatorem-lp214r7rs-elisama-dias-coelhos-projects.vercel.app/api/spotify?t=1)](https://open.spotify.com/user/zama)
 
