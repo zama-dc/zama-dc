@@ -60,6 +60,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg"> 
   -->
 
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+[![Spotify](https://novatorem-lp214r7rs-elisama-dias-coelhos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zama)
+
