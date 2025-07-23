@@ -65,6 +65,6 @@
 ###
 
 <!-- 🎵 Música atual do Spotify -->
-[![Spotify](https://novatorem-git-main-elisama-dias-coelhos-projects.vercel.app/api/spotify?t=999)](https://open.spotify.com/user/31snaizyoipn5w4cykbmhpojiu6u)
+[![Spotify](https://novatorem-git-main-elisama-dias-coelhos-projects.vercel.app/api/spotify?t=999)]
 
 
