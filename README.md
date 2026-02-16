@@ -52,12 +52,12 @@
 <br clear="both">
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg?v=2026">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
     <!-- se quiser que fique claro coloque: 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg"> 
   -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg?v=2026">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg?v=2026">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
