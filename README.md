@@ -62,6 +62,5 @@
 
 ###
 
-<!-- 🎵 Música atual do Spotify 
-[![Spotify](https://novatorem-git-main-elisama-dias-coelhos-projects.vercel.app/api/spotify?t=999)](https://open.spotify.com/user/31snaizyoipn5w4cykbmhpojiu6u)]
--->
+<!-- música tocando no momento na plataforma spotify-->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snaizyoipn5w4cykbmhpojiu6u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
