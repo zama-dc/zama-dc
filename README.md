@@ -52,10 +52,9 @@
 <br clear="both">
 
 <picture align="center">
+  <!-- no mode dark uso a cobrinha no modo escuro sem precisar descartar o outro -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
-    <!-- se quiser que fique claro coloque: 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg"> 
-  -->
+    <!-- no mode light uso a cobrinha no modo claro descartar o outro -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg">
 </picture>
