@@ -1,10 +1,6 @@
+pq não está linkando?
+
 <h1 align="left">Hi 👋! I'm Elisama! I'm currently studying Systems Analysis and Development in Porto Alegre, Brazil 🇧🇷</h1>
-
-###
-
-<div align="center">
-  <img height="160" src="https://media1.tenor.com/m/W1Q_7gP-osoAAAAd/scooby-doo-cute-d.gif" />
-</div>
 
 ###
 
@@ -20,6 +16,39 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </section>
+
+###
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://media1.tenor.com/m/W1Q_7gP-osoAAAAd/scooby-doo-cute-d.gif" width="400px"/>
+
+</td>
+
+<td width="60%">
+
+<a href="https://github.com/zama-dc/Livro-vai-livro-vem---LVLV" target="_blank">📁</a> <b>Livro vai, livro vem - LVLV</b><br>
+plataforma de doação e troca de livros
+
+<br>
+
+<a href="LINK_DO_PORTFOLIO">📁</a> <b>portfolio_pessoal</b><br>
+meu espaço
+
+<br>
+
+<a href="LINK_DOS_PROJETOS">📁</a> <b>projetos_academicos</b><br>
+trabalhos e estudos
+
+<br>
+
+📁 <b>em_breve...</b><br>
+ideias que ainda estão tomando forma
+</td>
+</tr>
+</table>
 
 ###
 
