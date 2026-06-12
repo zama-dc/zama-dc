@@ -1,60 +1,89 @@
-pq não está linkando?
-
 <h1 align="left">Hi 👋! I'm Elisama! I'm currently studying Systems Analysis and Development in Porto Alegre, Brazil 🇧🇷</h1>
-
-###
-
 
 ###
 
 <!-- futuramente mudar para icon !-->
 <section align="center">
-  <a href="mailto:czmaeli663@gmail.com" target="_blank">
+  <a href="mailto:czmaeli663@gmail.com">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/elisama-coelho" target="_blank">
+  <a href="https://www.linkedin.com/in/elisama-coelho">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </section>
 
 ###
 
-<table>
+## 📁 Principais Projetos
+
+<table align="center">
 <tr>
-<td width="40%">
 
-<img src="https://media1.tenor.com/m/W1Q_7gP-osoAAAAd/scooby-doo-cute-d.gif" width="400px"/>
+<td width="50%" align="center">
+
+<img
+src="https://media1.tenor.com/m/W1Q_7gP-osoAAAAd/scooby-doo-cute-d.gif"
+width="100%"/>
 
 </td>
 
-<td width="60%">
+<td width="50%">
 
-<a href="https://github.com/zama-dc/Livro-vai-livro-vem---LVLV" target="_blank">📁</a> <b>Livro vai, livro vem - LVLV</b><br>
-plataforma de doação e troca de livros
+<table>
 
-<br>
+<tr>
 
-<a href="LINK_DO_PORTFOLIO">📁</a> <b>portfolio_pessoal</b><br>
-meu espaço
+<td width="50%" valign="top">
 
-<br>
+<a href="https://github.com/zama-dc/Livro-vai-livro-vem---LVLV">📁</a>
+<b> Livro vai, livro vem - LVLV</b><br>
+<sub>plataforma de doação e troca de livros</sub>
 
-<a href="LINK_DOS_PROJETOS">📁</a> <b>projetos_academicos</b><br>
-trabalhos e estudos
-
-<br>
-
-📁 <b>em_breve...</b><br>
-ideias que ainda estão tomando forma
 </td>
+
+<td width="50%" valign="top">
+
+<a href="LINK_DOS_PROJETOS">📁</a>
+<b> projetos_academicos</b><br>
+<sub>trabalhos e estudos</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<br>
+
+<a href="LINK_DO_PORTFOLIO">📁</a>
+<b> portfolio_pessoal</b><br>
+<sub>meu espaço na internet</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<br>
+
+📁
+<b> em_breve...</b><br>
+<sub>ideias que ainda estão tomando forma</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
 </tr>
 </table>
 
 ###
 
-<!-- 
-![](https://github-readme-stats.shion.dev/api?username=zama-dc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zama-dc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
--->
 <p align="center">
   <img
     height="165"
@@ -71,19 +100,14 @@ ideias que ainda estão tomando forma
 <br clear="both">
 
 <picture align="center">
-  <!-- no mode dark uso a cobrinha no modo escuro sem precisar descartar o outro -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
-    <!-- no mode light uso a cobrinha no modo claro descartar o outro -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zama-dc/zama-dc/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
 
-
 ## 🛠 Tech Stack | ferramentas que uso e que já usei
-
-<div align="center">
 
 <div align="center">
 
@@ -101,8 +125,6 @@ ideias que ainda estão tomando forma
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 
 </div>
-</div>
-
 
 ###
 
@@ -113,12 +135,7 @@ ideias que ainda estão tomando forma
   </a>
 </p>
 
-
-
-
-
 <!--
 ---
 [![](https://komarev.com/ghpvc/?username=zama-dc&icon=0&color=0)](https://visitcount.itsvg.in)
-
 -->
